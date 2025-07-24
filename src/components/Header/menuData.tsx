@@ -20,6 +20,24 @@ const menuData: Menu[] = [
     newTab: false,
   },
   {
+    id: 34,
+    title: "לומד נהיגה",
+    path: "/student",
+    newTab: false,
+  },
+  {
+    id: 35,
+    title: "בית ספר לנהיגה",
+    path: "/school",
+    newTab: false,
+  },
+  {
+    id: 36,
+    title: "מורה עצמאי",
+    path: "/freelancer",
+    newTab: false,
+  },
+  {
     id: 3,
     title: "Support",
     path: "/contact",
@@ -52,6 +70,18 @@ const menuData: Menu[] = [
         id: 44,
         title: "Blog Sidebar Page",
         path: "/blog-sidebar",
+        newTab: false,
+      },
+      {
+        id: 441,
+        title: "Learning Drivers Blog",
+        path: "/learning-blog",
+        newTab: false,
+      },
+      {
+        id: 442,
+        title: "Theory Blog",
+        path: "/theory-blog",
         newTab: false,
       },
       {
